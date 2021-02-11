@@ -11,16 +11,16 @@ For user interface tkinter, pillow module is used. Tkinter opens another window 
 # Training
 Here we train the model using natural language processing(NLP). In training model there is intent classification and entity extraction. NLP uses two modules input query and query analysis. Query analysis has four steps: 
 
-Tokenization
+Tokenization:
 In this phase sentences are divided into streams of individual tokens that are differentiated by spaces.
 
-Stop Word Removal
+Stop Word Removal:
 Stop words are the words that occur frequently. These words must be eliminated because they influence the sentences that contain these words. 
 
-Case Folding
+Case Folding:
 It is to reduce all letters to lowercase. 
 
-Stemming
+Stemming:
 Stemming is the process of reducing derived or inflected words to their stem, base or root form—generally a written word form.
 
 ![](Chatbot%20UI.png)
