@@ -14,7 +14,7 @@ Here we train the model using natural language processing(NLP). In training mode
 # Tokenization
 In this phase sentences are divided into streams of individual tokens that are differentiated by spaces.
 
-# Stop Word Removal: 
+# Stop Word Removal 
 Stop words are the words that occur frequently. These words must be eliminated because they influence the sentences that contain these words. 
 
 # Case Folding
