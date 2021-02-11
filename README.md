@@ -12,7 +12,9 @@ For conversation ChatterBot and SpeechRecognition module is used. Chatter Bot is
 
 ![](Chatbot%20UI.png)
 
-![]()
+![](speech.png)
 
 # Datasets
 Here AmbiguityQA dataset is used. Ambiguity is inherent to open-domain question answering; especially when exploring new topics, it can be difficult to ask questions that have a single, unambiguous answer.
+
+![](questions.png)
