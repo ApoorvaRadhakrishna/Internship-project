@@ -8,9 +8,24 @@ For user interface tkinter, pillow module is used. Tkinter opens another window 
 
 ![](chatbot.png)
 
-For conversation ChatterBot and SpeechRecognition module is used. Chatter Bot is a machine-learning-based conversational dialog engine build in Python which makes it possible to generate responses based on collections of known conversations. Chatter Bot comes with a data utility module that can be used to train chat bots. In SpeechRecognition module first component is speech. It uses Pyttsx3 engine instance for loading a speech engine. It produce and stop speech; get and set speech engine properties; and start and stop event loops. 
+# Training
+Here we train the model using natural language processing(NLP). In training model there is intent classification and entity extraction. NLP uses two modules input query and query analysis. Query analysis has four steps: 
+
+# Tokenization
+In this phase sentences are divided into streams of individual tokens that are differentiated by spaces.
+
+# Stop Word Removal: 
+Stop words are the words that occur frequently. These words must be eliminated because they influence the sentences that contain these words. 
+
+# Case Folding
+It is to reduce all letters to lowercase. 
+
+# Stemming
+Stemming is the process of reducing derived or inflected words to their stem, base or root form—generally a written word form.
 
 ![](Chatbot%20UI.png)
+
+For conversation ChatterBot and SpeechRecognition module is used. Chatter Bot is a machine-learning-based conversational dialog engine build in Python which makes it possible to generate responses based on collections of known conversations. Chatter Bot comes with a data utility module that can be used to train chat bots. In SpeechRecognition module first component is speech. It uses Pyttsx3 engine instance for loading a speech engine. It produce and stop speech; get and set speech engine properties; and start and stop event loops. 
 
 ![](speech.png)
 
