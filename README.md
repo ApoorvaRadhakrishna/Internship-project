@@ -10,7 +10,7 @@ For user interface tkinter, pillow module is used. Tkinter opens another window 
 
 For conversation ChatterBot and SpeechRecognition module is used. Chatter Bot is a machine-learning-based conversational dialog engine build in Python which makes it possible to generate responses based on collections of known conversations. Chatter Bot comes with a data utility module that can be used to train chat bots. In SpeechRecognition module first component is speech. It uses Pyttsx3 engine instance for loading a speech engine. It produce and stop speech; get and set speech engine properties; and start and stop event loops. 
 
-![]()
+![](Chatbot%20UI.png)
 
 # Datasets
 Here AmbiguityQA dataset is used. Ambiguity is inherent to open-domain question answering; especially when exploring new topics, it can be difficult to ask questions that have a single, unambiguous answer.
